@@ -1,28 +1,28 @@
 {
   "foods": [
     {
-      "id": 1,
-      "name": "Ao molho",
-      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas",
-      "price": "19.90",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "Moda da casaaa ",
+      "price": "25.00",
+      "description": "Um delecioso molho a moda italiana, batata cozida, e um molho brancoi",
       "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
+      "id": 4
     },
     {
-      "id": 2,
-      "name": "Veggie",
-      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
-      "price": "21.90",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "Moda da casa",
+      "price": "21.40",
+      "description": "O especial da casa vem com um especial de molho branco com macarrão",
       "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
+      "id": 5
     },
     {
-      "id": 3,
-      "name": "A la Camarón",
-      "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
-      "price": "25.90",
-      "available": false,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "Frango italiano - gurmê",
+      "price": "60.00",
+      "description": "Frango a moda italiana, cheio de sabor acompanhado de molho especial",
+      "available": true,
+      "id": 6
     }
   ]
 }
